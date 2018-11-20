@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-gb"
+title = "SpectralAnalysis: Software for the masses"
+
+theme = "hugo-theme-learn"
