@@ -3,3 +3,11 @@ languageCode = "en-gb"
 title = "SpectralAnalysis: Software for the masses"
 
 theme = "hugo-theme-learn"
+
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "blue"
+
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
