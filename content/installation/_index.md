@@ -1,6 +1,8 @@
 +++
-title = "Getting Started"
+title = "Installation"
+weight = 1
 +++
+
 
 # Getting Started with SpectralAnalysis
 
@@ -57,5 +59,6 @@ If you use a currently untested version of MATLAB, please let me know any succes
 | R2010a | Untested |     |
 | R2009b | Untested |     |
 | R2009a | Untested |     |
+
 
 
