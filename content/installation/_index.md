@@ -4,8 +4,6 @@ weight = 1
 +++
 
 
-# Getting Started with SpectralAnalysis
-
 ## Standalone Version
 
 Currently requires 64-bit Windows. If you are running 32-bit Windows and want a standalone version please contact me (alan.race@uni-bayreuth.de).

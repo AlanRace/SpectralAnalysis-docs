@@ -3,7 +3,6 @@ title = "Load data"
 weight = 1
 +++
 
-## SpectralAnalysis
 
 ![SpectralAnalysis Interface](https://i.imgur.com/a5lLeVM.png)
 
@@ -13,9 +12,10 @@ weight = 1
 4. Progress bar
 5. Log of activities that have been and are currently being performed
 
-<a name="openData"/>
+<a name="openData"></a>
 
 ## Opening Data
+
 When selecting the 'Open' menu, the list of currently implemented [parsers]({{< ref "parser.md" >}}) will be shown, select the appropriate parser for the type of data to be opened.
 
 ![Select file type to open](https://i.imgur.com/uIHUqOG.png)
