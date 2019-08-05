@@ -13,7 +13,7 @@ Currently requires 64-bit Windows. If you are running 32-bit Windows and want a 
 3. Download and install the [Visual C++ Redistributable for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
 4. Run SpectralAnalysis.exe 
 
-## Source code Version
+## Source code Version {#source-version}
 
 ### Increase Java Heap Space
 Prior to running SpectralAnalysis, it is advisable to increase the 'Java Heap Size' allocated to MATLAB to the maximum available. This enables larger imzML files to be opened successfully.

@@ -4,6 +4,8 @@ title = "SpectralAnalysis: Software for the masses"
 
 theme = "hugo-theme-learn"
 
+publishDir = "..\\SpectralAnalysis\\docs"
+
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "blue"
