@@ -1,5 +1,6 @@
 +++
 title = "Ensure consistent m/z axis"
+weight = 4
 +++
 
 ### Background
