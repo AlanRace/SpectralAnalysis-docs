@@ -17,3 +17,4 @@ relativeURLs = "true"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
