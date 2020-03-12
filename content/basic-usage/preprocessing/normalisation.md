@@ -29,7 +29,7 @@ The goal of normalisation is to scale the intensities of each pixel to remove sy
 Choosing an appropriate normalisation method is challenging and depends on the artefacts that need to be removed. The methods included in SpectralAnalysis are described below.
 
 
-* l^2 normalisation
+* l^2^ normalisation
 * Median intensity normalisation
 * Noise level normalisation
 * p-norm normalisation
@@ -37,7 +37,7 @@ Choosing an appropriate normalisation method is challenging and depends on the a
 * TIC normalisation
 
 
-##### l^2 normalisation
+##### l^2^ normalisation
 
 This method normalises the data such that the sum of the squares of each spectrum will always be add up to 1 
 
@@ -51,7 +51,7 @@ This method aims to estimate the noise level in the dataset using the method des
 
 ##### p-norm normalisation
 
-p-norm is a generalisable variation on the l^2 normalisation where the sum of the power `p` specified by the user adds up to 1. In the case where p = 2, this is equivalent to the l^2 norm, and p=1 is equivalent to the TIC norm 
+p-norm is a generalisable variation on the l^2^ normalisation where the sum of the power `p` specified by the user adds up to 1. In the case where p = 2, this is equivalent to the l^2^ norm, and p=1 is equivalent to the TIC norm 
 
 ##### Root mean square normalisation
 
