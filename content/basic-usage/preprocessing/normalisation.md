@@ -4,7 +4,7 @@ title = "Normalisation"
 
 ### Background
 
-The goal of normalisation is to scale the intensities of each pixel to remove systematic artefacts that affect intensity. For further reading on normalisationmethods there are a number of articles that discuss this further
+The goal of normalisation is to scale the intensities of each pixel to remove systematic artefacts that affect intensity. For further reading on normalisation methods there are a number of articles that discuss this further
 
 * [Normalization in MALDI-TOF imaging datasets of proteins: practical considerations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3124646/)
 * [Robust data processing and normalization strategy for MALDI mass spectrometric imaging](https://www.ncbi.nlm.nih.gov/pubmed/22148759)
